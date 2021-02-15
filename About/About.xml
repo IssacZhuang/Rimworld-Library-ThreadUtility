@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Thread Utility</name>
+	<author>Issac Zhuang</author>
+	<packageId>IssacZhuang.ThreadUtility</packageId>
+	<description>Thread Utility</description>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+</ModMetaData>
